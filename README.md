@@ -1,2 +1,2 @@
 # Tasks-Yandex
-Tasks from Yandex
+Решение задач по алгоритмам на языках Python.
